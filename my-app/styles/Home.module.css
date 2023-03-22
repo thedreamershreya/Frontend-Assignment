@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .article {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .article h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .article p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .category-menu {
+    margin-bottom: 20px;
+  }
+  
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
